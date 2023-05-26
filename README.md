@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ganesh BM 
 - 👀 I’m interested in Full stack development 
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 How to reach me ganeshbudal1@gmail.com
 
 <!---
